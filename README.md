@@ -2,7 +2,7 @@
 
 # Predicting Electricity Generation of the Eastern Mid-Atlantic Region of the U.S.
 
-## 📌 Overview
+## Overview
 
 This project develops a predictive model for electricity generation in the Eastern Mid-Atlantic region of the United States, specifically focusing on **Pennsylvania, New Jersey, and Delaware**. Accurate forecasts of electricity generation are crucial for energy planning, sustainability, and grid reliability.
 
@@ -42,7 +42,7 @@ README.md                                                                       
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -67,7 +67,7 @@ jupyter notebook Predicting_Electricity_Generation_of_the_Eastern_Mid_Atlantic_R
 
 ---
 
-## 📊 Results
+## Results
 
 * The SARIMAX model successfully captured seasonal trends in electricity generation.
 * Performance was evaluated using **Mean Squared Error (MSE)**.
@@ -75,7 +75,7 @@ jupyter notebook Predicting_Electricity_Generation_of_the_Eastern_Mid_Atlantic_R
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Incorporating **weather, economic activity, and renewable energy adoption** as exogenous features.
 * Experimenting with **LSTM/GRU neural networks** for long-term forecasting.
@@ -83,17 +83,13 @@ jupyter notebook Predicting_Electricity_Generation_of_the_Eastern_Mid_Atlantic_R
 
 ---
 
-## 👥 Authors
+## Authors
 
 * **David Nwadiuko**
 * **Elijah Iyamabhor**
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Do you want me to also create a **requirements.txt** from your notebook’s imports so that the repo is plug-and-play?
