@@ -87,9 +87,3 @@ jupyter notebook Predicting_Electricity_Generation_of_the_Eastern_Mid_Atlantic_R
 
 * **David Nwadiuko**
 * **Elijah Iyamabhor**
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
