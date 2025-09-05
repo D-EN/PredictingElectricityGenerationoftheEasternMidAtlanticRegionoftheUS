@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Testing: Predicting Electricity Generation of the Eastern Mid-Atlantic Region of the US.ipynb"""
+"""Predicting Electricity Generation of the Eastern Mid-Atlantic Region of the US.ipynb"""
 
 #-----General------#
 import numpy as np
@@ -874,4 +874,5 @@ ax.set_xlabel("Years (YYYY-MM-DD)")
 ax.set_ylabel("Electricity Generated (Megawatthours)")
 plt.title("The Electricity Generation in the Eastern Region of The U.S. Mid-Atlantic")
 plt.legend()
+
 st.pyplot(fig)
